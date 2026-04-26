@@ -1,3 +1,5 @@
+🚀 **Live Demo:** [Click here]([https://your-app-url.streamlit.app](https://student-screentime-eda-4bptsz2qekffr5upgvfmp8.streamlit.app/))
+
 # Student Screen Time EDA Dashboard
 
 An exploratory data analysis of screen time patterns and their impact on student attention spans, built with Python and Streamlit.
