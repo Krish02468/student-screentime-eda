@@ -1,4 +1,4 @@
-🚀 **Live Demo:** [Click here]([https://your-app-url.streamlit.app](https://student-screentime-eda-4bptsz2qekffr5upgvfmp8.streamlit.app/))
+🚀 **Live Demo:** [Click here](https://student-screentime-eda-4bptsz2qekffr5upgvfmp8.streamlit.app/)
 
 # Student Screen Time EDA Dashboard
 
